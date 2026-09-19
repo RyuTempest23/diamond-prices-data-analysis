@@ -1,2 +1,4 @@
-# this is a sample only
-print("Hi! I will make a diamonds prices and data analysis project!")
+# Importing the required lybraries for this project
+import pandas as pd
+import matplotlib as mp
+import seaborn as sb
